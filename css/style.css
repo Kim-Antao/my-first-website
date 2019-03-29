@@ -31,10 +31,14 @@ h1{
     text-align:center;
 }
 .cards{
-    
-    
+    margin:5%;
     width:20%;
+    display:inline-block;
+    height:20%;
 }
 .cards img{
     width:100%;
+}
+.cards h2{
+    text-align: center;
 }
